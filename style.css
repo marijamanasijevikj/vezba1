@@ -1,0 +1,95 @@
+.nav a{
+	color: black;
+}
+.navbar-header a{
+	color: black;
+}
+.imgbg{
+	background-image: url('mountains.jpg');
+	height: 90vh;
+}
+.imgbgcol{
+	background-color: rgba(48, 160, 125, 0.5);
+	height: 100%;
+}
+.pad{
+	padding-top: 5%;
+	color: white;
+}
+.pad h1{
+	font-size: 70px;
+}
+.bgdark{
+	background-color: black;
+	padding-top: 3rem;
+	padding-bottom: : 3rem;
+}
+.card{
+	border: 1px solid blue;
+	padding: 10px;
+	border-radius: 5px;
+}
+.padtopbot{
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+.bgblue{
+	background-color: lightblue;
+}
+.hrr{
+	width: 50%;
+	border: 1px solid lightgrey;
+}
+.panel-heading a{
+	color: black;
+}
+.panel-heading{
+	border: 1px solid black;
+	border-radius: 5px;
+}
+.panel-body{
+	border: 1px solid black;
+	border-radius: 5px;
+}
+.panel{
+	margin-bottom: 0;
+}
+.bglight{
+	background-color: lightgrey;
+}
+.padtopp{
+	padding-top: 3%;
+}
+.padbot{
+	padding-bottom: 3%;
+}
+.flexxx{
+	display: flex;
+	justify-content: space-around;
+}
+.imgposition img{
+	position: absolute;
+	top: -40px;
+	left: 100px;
+}
+.imgposition h4{
+	margin-top: 60px;
+}
+.flexxxx{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 50vh;
+}
+.footer{
+	padding-bottom: 3%;
+	padding-top: 3%;
+	color: white;
+}
+
+
+
+Collapse 
+Message Input
+
+Message Rosik Stefan

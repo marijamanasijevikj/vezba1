@@ -1,0 +1,21 @@
+
+
+ .navblack button {
+    background-color: transparent;
+    color: rgb(165, 158, 158);
+    font-size: 15px;
+ }
+ .bel {
+    background-color: white;
+ }
+ .bel li a {
+    color:black;
+ }
+ .navbar-brand{
+    color: black!important;
+    font-size: 30px!important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ .bel li a:hover {
+    background-color: green!important;
+ }
